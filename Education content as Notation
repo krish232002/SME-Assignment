@@ -1,0 +1,20 @@
+Introduction:
+Space Invaders is a classic arcade game that has captivated players for decades. In this training material, we'll dig deeper into the mechanics of Space Invaders, exploring  gameplay elements, strategies, and design principles.
+Overview:
+Space Invaders is an arcade shooter where players control a spaceship that moves horizontally across the bottom of the screen. The goal is to fend off waves of invading alien ships while avoiding projectiles.
+Basic mechanism: 
+Player Movement: The player can use the arrow keys or joystick to move the spaceship horizontally. 
+Shooting: Players can fire lasers to destroy alien invaders. 
+Alien Movement: Alien ships move horizontally across the screen and come down towards the player. 
+Barrier Shields: Barrier shields provide temporary protection from alien projectiles and can be used strategically for cover.
+Strategy:
+Dodging: Players must maneuver their spacecraft to avoid incoming alien projectiles.
+Priority Targets: Certain alien ships may pose a greater threat or award more points, requiring strategic targeting.
+Timing: Knowing when to shoot and when to evade is crucial for survival.
+Player Movement:
+Use the left and right arrow keys to move the spacecraft horizontally.
+Avoid colliding with alien ships or their projectiles to stay alive.
+Shooting:
+Press the spacebar to fire lasers at the alien invaders.
+Aim carefully to hit as many targets as possible while conserving ammunition.
+This educational content piece provides students with an overview of the Space Invaders game mechanics, practical exercises, and additional resources for further learning. It's structured to be engaging and informative, encouraging students to explore game development concepts in a fun and interactive way.
